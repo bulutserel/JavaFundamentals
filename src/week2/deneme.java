@@ -1,6 +1,6 @@
-package week2;
+package week3;
 
-public class deneme {
+public rclass homeworwk {
 
     public static void main(String[] args) {
         System.out.println("Deneme");
