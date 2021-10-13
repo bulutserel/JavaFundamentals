@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f708537d-cfe1-4308-b2f2-dddf64f29408" name="Changes" comment="deneme2 commit">
-      <change afterPath="$PROJECT_DIR$/src/homework3/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/Teacher.java" afterDir="false" />
+    <list default="true" id="f708537d-cfe1-4308-b2f2-dddf64f29408" name="Changes" comment="homework3">
+      <change afterPath="$PROJECT_DIR$/src/homework2/week2hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/week2hw2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/FourTransactions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/GradeCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/Homework1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/NestedifStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/PasswordEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/SwitchStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/QA Academy/week1/ifStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/deneme.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Homework1">
+  <component name="RunManager" selected="Application.week2hw1">
     <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Homework1" />
       <module name="QA Academy" />
@@ -98,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.ifStatement" />
+    <configuration name="week2hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.week2hw1" />
       <module name="QA Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week2hw1" />
         <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.NestedifStatement" />
         <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.PasswordEquals" />
-        <item itemvalue="Application.ifStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631092079425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deneme2 commit">
+      <created>1633979123908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633979123908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework3">
+      <created>1633979170258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633979170259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +167,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deneme commit" />
     <MESSAGE value="deneme2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme2 commit" />
+    <MESSAGE value="homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
   </component>
 </project>
